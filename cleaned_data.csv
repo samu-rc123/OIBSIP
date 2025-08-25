@@ -1,0 +1,4 @@
+name,age,amount,date_column,extra_column
+Alice,25,100.0,2024-01-10,test
+David,30,175.0,,test
+Eve,40,300.0,,test

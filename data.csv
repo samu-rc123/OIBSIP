@@ -1,0 +1,7 @@
+Name, Age, Amount, Date Column, Extra Column
+Alice , 25, 100, 2024-01-10, test
+Bob, -5, 200, 2024/02/15, test
+Charlie, , , 15-03-2024, test
+Alice , 25, 100, 2024-01-10, test   
+David, 30, , , test
+Eve, 40, 300, invalid_date, test
